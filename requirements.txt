@@ -1,5 +1,5 @@
 discord.py
 async-timeout
 numpy
-os
 pandas
+
